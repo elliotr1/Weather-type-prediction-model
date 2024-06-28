@@ -13,5 +13,5 @@
 
 
 <p>Overall for this project the outcomes were good results. With a weighted average of: <br>
-  precision	recall	f1-score
+  precision	recall	f1-score <br>
   0.986765	0.967685	0.977105</p>
