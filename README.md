@@ -12,6 +12,6 @@
 <p>In this project I built a weather prediction model using Kaggle notebook's to predict what type of weather is expected based on conditions such as Humidity, Wind speed, Temperature etc.</p>
 
 
-<p>
-  Overall for my results for this 
-</p>
+<p>Overall for this project the outcomes were good results. With a weighted average of:
+  precision	recall	f1-score
+  0.986765	0.967685	0.977105</p>
