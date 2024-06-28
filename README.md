@@ -1,17 +1,21 @@
-<h1>Weather-type-prediction-model</h1>
-<h3>
-  In this project I used the following libraries: </h3>
-  <ul>
-    <li>Pandas for manipulating data</li>
-    <li>Numpy for statistical manipuation</li>
-    <li>Sklearn for splitting, training and testing and visualising the data</li>
-    <li>Matplotlib for visualing the data</li>
-    <li>Seaborn for visualing the data</li>
-  </ul>
+# Weather Prediction Model Project
 
-<p>In this project I built a weather prediction model using Jupyter Notebook's to predict what type of weather is expected based on conditions such as Humidity, Wind speed, Temperature etc.</p>
+## Overview
+This project focuses on building a weather prediction model using machine learning techniques. The goal is to predict the type of weather based on various environmental conditions such as humidity, wind speed, and temperature. The model was developed using Jupyter Notebook for interactive development and analysis.
+
+## Libraries Used
+- **Pandas**: Data manipulation and preprocessing.
+- **NumPy**: Numerical operations and array manipulations.
+- **Scikit-learn (sklearn)**: Model training, evaluation, and visualization.
+- **Matplotlib**: Creating visualizations to understand data patterns.
+- **Seaborn**: Enhancing the visual aesthetics of plots.
 
 
-<p>Overall for this project the outcomes were good results. With a weighted average of: <br>
-  precision	recall	f1-score <br>
-  0.986765	0.967685	0.977105</p>
+## Outcome Summary
+The model achieved promising results with the following weighted average metrics:
+- **Precision**: 0.986765
+- **Recall**: 0.967685
+- **F1-score**: 0.977105
+
+These metrics indicate effective performance in predicting weather types based on the provided environmental features.
+
